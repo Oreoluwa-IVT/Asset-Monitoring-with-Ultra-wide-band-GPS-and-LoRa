@@ -17,10 +17,11 @@ upright when used in an RTLS system.
 
 
 
-### UWB Placement Guidelines (DW1001)
+### UWB Chip Placement Guidelines (DW1001)
 The proximity of the DWM1001 on-board
 antenna to metal and other non-RF transparent materials needs to be considered carefully.
 For best RF performance, ground copper should be flooded in all areas of the application board, except
 in the areas marked “Keep-Out Area”, where there should be no metal on either side, above or below (e.g.
-do not place any battery under antenna)
+do not place any battery under the antenna).
+
 ![keepout](https://github.com/user-attachments/assets/3528bf69-dfea-45ba-84cc-e1a84dd0264f)
