@@ -6,7 +6,7 @@ A high-precision tracking module designed for close-range tracking via ultra-wid
 
 ## UWB Specifics 
 ### Module Positioning (UWB)
-The antenna-related diagrams below are lifted from the DWl001 Datasheet for the sake of referencing and clarity. 
+The antenna-related diagrams below are references from the DWl001 Datasheet. 
 The DWM1001 antenna is vertically polarised, meaning that the module is intended to be positioned vertically
 upright when used in an RTLS system. 
 
