@@ -4,4 +4,4 @@ A high-precision tracking module designed for close-range tracking via ultra-wid
 
 
 ## Module Positioning (UWB)
-<img scr="https://github.com/user-attachments/assets/bfe77378-9368-489f-88a7-ed792e20da31">
+<img src="https://github.com/user-attachments/assets/bfe77378-9368-489f-88a7-ed792e20da31"/>
