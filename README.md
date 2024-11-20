@@ -15,5 +15,5 @@ upright when used in an RTLS system.
 
 
 
-### Module Positioning (UWB)
-<img src="https://github.com/user-attachments/assets/bfe77378-9368-489f-88a7-ed792e20da31"/>
+### Antenna Characteristics (DW1001)
+<img src="https://github.com/user-attachments/assets/7524e91a-64d2-4c9a-a782-98cdc63d85e7"/>
