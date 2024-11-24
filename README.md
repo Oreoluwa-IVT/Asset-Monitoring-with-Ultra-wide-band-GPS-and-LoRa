@@ -28,6 +28,12 @@ upright when used in an RTLS system.
 
 
 
+
+## 📜 License
+This software is licensed under [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) 
+
+
+
 ### UWB Chip Placement Guidelines (DW1001)
 The proximity of the DWM1001 on-board
 antenna to metal and other non-RF transparent materials needs to be considered carefully.
