@@ -13,6 +13,17 @@ A high-precision tracking module designed for close-range tracking via ultra-wid
 - [Used By](#-used-by)
 - [License](#-license)
 
+##  Project Description 
+Tracking via ultra-wideband (UWB) is a project that aims to achieve a battery-powered asset-tracking device possible through the LoRaWAN communication protocol.
+The project is simply a small compact  tracking device featuring, Bluetooth Low Energy (BLE), Global Positioning System (GPS), and UWB.
+
+## 🤖 Schematics?
+
+The schematics are all on one sheet. This schematic sheet contains symbols and connections for highspeed USB-C, ESP32-C6FH8 (with internal flash), DWl0001 Ultrawide module, Power Management Integrated Circuit (PMIC), A buzzer, and a Global Positioning System (GPS).
+
+### Tracking via UWB Schematic Sheet
+This image is compressed. You can download the schematics in the Project files section below if you struggle to see certain details. Thanks!!
+<img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
 
 
 ## UWB Specifics 
