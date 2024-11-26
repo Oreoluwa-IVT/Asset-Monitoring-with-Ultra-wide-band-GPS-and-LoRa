@@ -14,8 +14,8 @@ A high-precision tracking module designed for close-range tracking via ultra-wid
 - [License](#-license)
 
 ##  Project Description 
-Tracking via ultra-wideband (UWB) is a project that aims to achieve a battery-powered asset-tracking device possible through the LoRaWAN communication protocol.
-The project is simply a small compact  tracking device featuring, Bluetooth Low Energy (BLE), Global Positioning System (GPS), and UWB.
+Tracking via ultra-wideband (UWB) is a project that aims to achieve a battery-powered asset-tracking device through the LoRaWAN communication protocol.
+This project is a small, compact tracking device featuring major components including Bluetooth Low Energy (BLE), Global Positioning System (GPS), and UWB.
 
 ## 🤖 Schematics?
 
