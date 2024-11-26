@@ -24,7 +24,6 @@ The schematics are all on one sheet. This schematic sheet contains symbols and c
 
 ### Tracking via UWB Schematic Sheet
 This image is compressed. You can download the schematics in the Project files section below if you struggle to see certain details. Thanks!!
-<img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
 
 
 ## UWB Specifics 
