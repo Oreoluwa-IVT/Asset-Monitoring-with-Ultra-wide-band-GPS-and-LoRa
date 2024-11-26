@@ -21,6 +21,7 @@ This project is a small, compact tracking device featuring major components incl
 
 The schematics are all on one sheet. This schematic sheet contains symbols and connections for highspeed USB-C, ESP32-C6FH8 (with internal flash), DWl0001 Ultrawide module, Power Management Integrated Circuit (PMIC), A buzzer, and a Global Positioning System (GPS).
 
+
 ### Tracking via UWB Schematic Sheet
 This image is compressed. You can download the schematics in the Project files section below if you struggle to see certain details. Thanks!!
 <img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
