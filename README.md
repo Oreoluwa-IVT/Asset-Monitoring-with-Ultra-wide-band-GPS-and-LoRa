@@ -53,3 +53,4 @@ in the areas marked “Keep-Out Area”, where there should be no metal on eithe
 do not place any battery under the antenna).
 
 ![keepout](https://github.com/user-attachments/assets/3528bf69-dfea-45ba-84cc-e1a84dd0264f)
+by: Oreoluwa Oluwafemi
